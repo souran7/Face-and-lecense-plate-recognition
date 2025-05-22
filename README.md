@@ -16,7 +16,7 @@ This Python project detects **faces** and **license plates** from input images u
 
 ## 🖼️ GUI Preview
 
-> _(Insert screenshot of your Tkinter GUI here if available)_
+>![alt text](Screenshot_5.png)
 
 ---
 
