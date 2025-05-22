@@ -40,21 +40,27 @@ This Python project detects **faces** and **license plates** from input images u
 ```bash
 git clone https://github.com/souran7/Face-and-lecense-plate-recognition.git
 cd Face-and-lecense-plate-recognition
+```
 
 
 
 ### 2. Create a Virtual Environment
+```bash
+
 python -m venv env
 env\Scripts\activate     # On Windows
 # OR
 source env/bin/activate  # On Mac/Linux
+```
+
 
 ### 3. Install Required Packages
+```bash
 pip install -r requirements.txt
-
+```
 
 ### 4. Run the Application
-
+```bash
 python blurred.py
-
+```
 
